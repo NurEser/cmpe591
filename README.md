@@ -77,29 +77,6 @@ Test MSE Loss: 0.004317
 
 <img width="256" height="152" alt="image" src="https://github.com/user-attachments/assets/a94b9483-2b2b-4c16-9af8-dae6a30d80b5" />
 
-## Test Errors
-
-### MLP
-
-
-Loading test data...
-Loading data files...
-Total dataset size: 1000 samples.
-Evaluating on 100 test samples...
-
-
-Test completed successfully!
-
-### CNN
-Loading test data...
-Loading data files...
-Total dataset size: 1000 samples.
-Evaluating on 100 test samples...
-
-
-Test completed successfully!
-
-
 ## Dataset
 
 The dataset directory should have the following structure:
